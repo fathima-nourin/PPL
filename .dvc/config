@@ -1,0 +1,6 @@
+[core]
+    remote = azure
+['remote "azure"']
+    url = azure://vision-app/PPL/Zuarinagar/line_1/camera_1/
+    account_name = azrmlilensqa006382180551
+    connection_string = AccountName=azrmlilensqa006382180551;AccountKey=tDGOKfiZ2svfoMvVmS0Fbpf0FTHfTq4wKYuDX7cAxlhve/3991QuzdvJHm9vWc+lo6mtC+x9yPSghWNR4+gacg==;EndpointSuffix=core.windows.net;DefaultEndpointsProtocol=https;
